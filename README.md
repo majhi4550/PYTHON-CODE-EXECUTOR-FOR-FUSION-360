@@ -8,3 +8,4 @@ there in the name space delete the default name and past the copied name there. 
 then you can see in the addin is added in the list , right click and click open file location,
 there you can see the CodeExecutorPro.PY exist- now go to download folder and copy the downloaded "CodeExecutorPro.PY" and pest it to the CodeExecutorPro addin folder replace it.
 close the window and goto fusion again and from the addin manue slide the addin switch button , you can see CodeExecutorPro add in creted in the tools tab. open it and try.
+my contact- majhinishith@gmail.com
